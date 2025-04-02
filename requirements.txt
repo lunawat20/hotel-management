@@ -1,0 +1,9 @@
+Flask
+Flask-MySQL
+mysql-connector-python
+flask-wtf
+wtforms
+Flask-SQLAlchemy
+Flask-Login
+Flask-Migrate
+reportlab
